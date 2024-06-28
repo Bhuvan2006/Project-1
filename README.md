@@ -1,3 +1,3 @@
 # Project-1
-My first project
-Mtself Bhuvan N R
+My first project.
+Myself Bhuvan N R
